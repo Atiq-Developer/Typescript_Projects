@@ -1,0 +1,16 @@
+{
+  "name": "oop_my_bank",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Hafiz M Atiq 00055468",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^11.0.2"
+  }
+}
